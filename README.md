@@ -31,7 +31,7 @@ Analyze a salary dataset to understand how experience, education level, job role
 - Assumed reported salaries are annual and standardized.
 
 ## Next Steps
-- Feature Engineering
+- Feature Engineer
 - Outlier handling for high salary extreme values.
 - Train a regression models.
 - Validate findings with a larger or more diverse dataset.
